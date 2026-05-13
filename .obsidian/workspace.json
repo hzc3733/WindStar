@@ -25,10 +25,14 @@
             "id": "a14200454af8d98c",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-local-hermes",
-              "state": {},
-              "icon": "lucide-hermes",
-              "title": "local-hermes"
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Bilibili/2026-05-13-把B站视频转成本地AI知识库！新手也能3分钟上手.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-13-把B站视频转成本地AI知识库！新手也能3分钟上手"
             }
           }
         ],
@@ -166,12 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Clippings/Bilibili/2026-05-13-把B站视频转成本地AI知识库！新手也能3分钟上手.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "2026-05-13-把B站视频转成本地AI知识库！新手也能3分钟上手 的大纲"
             }
           },
           {
@@ -225,6 +230,9 @@
   },
   "active": "a14200454af8d98c",
   "lastOpenFiles": [
+    "Clippings/Bilibili/2026-05-13-把B站视频转成本地AI知识库！新手也能3分钟上手.md",
+    "Clippings/Bilibili",
+    "Clippings",
     "wiki/index.md",
     "assets/hq720.jpg",
     "assets/Karpathy LLM Wiki.png",
@@ -243,7 +251,6 @@
     "raw/01-articles",
     "raw",
     "wiki/syntheses/5c-prompt-markdown-note-taking.md",
-    "wiki/syntheses",
     "wiki/sources/摘要-prompt-engineering-2025-guide-promptbuilder.md",
     "wiki/sources/摘要-google-prompt-engineering-whitepaper.md",
     "wiki/sources/摘要-gemini-api-prompting-strategies.md",
@@ -251,7 +258,6 @@
     "wiki/sources/摘要-anthropic-prompting-best-practices.md",
     "wiki/sources/摘要-ai-prompt-engineering-2025-2026-espo.md",
     "wiki/sources/摘要-5c-prompt-contracts-paper.md",
-    "wiki/sources",
     "wiki/log.md",
     "wiki/entities/Google.md",
     "wiki/entities/Gemini.md",
