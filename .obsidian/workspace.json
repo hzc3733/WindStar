@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "a14200454af8d98c",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-local-hermes",
+              "state": {},
+              "icon": "lucide-hermes",
+              "title": "local-hermes"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,13 +166,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -213,7 +223,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "78f7e1fe7f5b6ce1",
+  "active": "a14200454af8d98c",
   "lastOpenFiles": [
     "wiki/index.md",
     "assets/hq720.jpg",
