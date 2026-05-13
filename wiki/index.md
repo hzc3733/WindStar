@@ -6,6 +6,7 @@
 
 ## Sources（来源摘要）
 
+- [[摘要-bilibili-ai-knowledge-base]] — 将 Bilibili 视频转化为本地 AI 知识库的工具链教程
 - [[摘要-gemini-api-prompting-strategies]] — Google Gemini API 提示设计策略中文指南
 - [[摘要-prompt-engineering-2025-guide-promptbuilder]] — Prompt Engineering 2025 完整指南（PromptBuilder）
 - [[摘要-ai-prompt-engineering-2025-2026-espo]] — AI 提示工程完整指南 2025-2026（Espo.ai）
@@ -21,6 +22,11 @@
 ### 公司/组织
 - [[Google]] — 全球领先的科技公司，Gemini 模型开发者
 - [[Anthropic]] — AI 安全研究公司，Claude 模型开发者
+
+### 工具/产品
+- [[karpathy-llm-wiki-vault]] — 基于 Karpathy 理念的 Obsidian 知识库模板
+- [[Obsidian]] — 本地双链笔记软件，LLM Wiki 知识库核心
+- [[Bilibili_Web_Clipper]] — B 站视频专用网页剪藏浏览器扩展
 
 ### 模型/产品
 - [[Gemini]] — Google 的大型语言模型家族
