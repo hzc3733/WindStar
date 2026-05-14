@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/log.md",
+                "file": "Clippings/Bilibili/2026-05-13-把B站视频转成本地AI知识库！新手也能3分钟上手.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "log"
+              "title": "2026-05-13-把B站视频转成本地AI知识库！新手也能3分钟上手"
             }
           }
         ]
@@ -170,12 +170,22 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          },
+          {
+            "id": "a3314a3f1363c397",
+            "type": "leaf",
+            "state": {
+              "type": "oterm-terminal-view",
+              "state": {},
+              "icon": "oterm-icon",
+              "title": "Terminal: powershell"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "6d8c721b8fc0f83e",
@@ -196,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 487.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,13 +220,14 @@
       "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "oterm:Oterm": false
     }
   },
   "active": "e5664252d58b293e",
   "lastOpenFiles": [
-    "wiki/index.md",
     "wiki/log.md",
+    "wiki/index.md",
     "raw/09-archive/The Complete Prompt Engineering Guide (2025).md",
     "raw/03-transcripts/Prompt Engineering Full Course.md",
     "raw/01-articles/提示设计策略  _  Gemini API.md",
