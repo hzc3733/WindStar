@@ -12,5 +12,3 @@ last_updated: 2026-05-16
 ## 关联连接
 - [[Obsidian]] — 本地知识库核心
 - [[LLM_Wiki]] — Karpathy提出的知识库理念
-- [[Bilibili_Web_Clipper]] — B站视频抓取扩展
-- [[Local_REST_API]] — Obsidian外部接口插件

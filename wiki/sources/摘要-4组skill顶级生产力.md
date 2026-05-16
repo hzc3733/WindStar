@@ -11,9 +11,4 @@ last_updated: 2026-05-16
 
 ## 关联连接
 - [[Skills]] — 技能扩展机制
-- [[Skill_Creator]] — Anthropic官方Skill创建工具
-- [[Find_Skills]] — Skill自动发现与安装
-- [[Super_Powers]] — 测试驱动开发Skill
 - [[G_Stack]] — YC总裁Gary Tan的专家角色矩阵
-- [[Front_End_Design]] — 前端设计Skill
-- [[内容创作Skills]] — 宝玉老师的创作工具集

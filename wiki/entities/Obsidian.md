@@ -34,6 +34,4 @@ Obsidian是一款本地知识库核心工具，支持双链笔记与图谱可视
 
 ## 关联连接
 - [[LLM_Wiki]] — 知识库理念
-- [[Bilibili_Web_Clipper]] — B站抓取插件
-- [[Local_REST_API]] — 外部接口插件
 - [[摘要-b站视频转知识库]] — 来源摘要
