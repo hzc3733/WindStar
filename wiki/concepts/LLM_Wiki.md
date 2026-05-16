@@ -1,32 +1,39 @@
 ---
-title: "LLM_Wiki"
+title: "LLM Wiki"
 type: concept
-tags: [知识管理, AI, 双链笔记, Karpathy]
-sources: [raw/03-transcripts/2026-05-13-把B站视频转成本地AI知识库！新手也能3分钟上手.md]
+tags: [知识库, Karpathy, AI, Obsidian]
+sources: [Clippings/Bilibili/AI工具/把B站视频转成本地AI知识库.md]
 last_updated: 2026-05-16
 ---
 
 ## 定义
+LLM Wiki是由Andrej Karpathy提出的利用Obsidian作为本地知识库、通过双链笔记和AI技术实现知识互联与生长的理念。
 
-LLM-Wiki 是由 Andrej Karpathy 提出的知识管理理念，核心思想是利用 Obsidian 作为本地知识库，通过 Web Clipper 抓取视频/网页内容并转化为 Markdown 格式，让 LLM 能够理解并实现知识互联与知识生长。
+## 关键信息
 
-## 核心理念
+### 核心理念
+视频通过Web Clipper抓取，转化为Markdown格式，存入Obsidian vault，让LLM能够理解，最终实现知识生长。
 
-1. **视频通过 Web Clipper 抓取**，转化为 Markdown 格式存入 Obsidian Vault
-2. **让 LLM 能够理解**笔记内容，实现 AI 可读的知识结构
-3. **最终实现知识生长**，通过双链和图谱可视化让知识不断繁衍互联
+### Karpathy-LLM-Wiki-Vault
+基于Karpathy理念构建的开源Obsidian知识库模板，支持YouTube视频自动抓取，由B站UP主"杰森的效率工坊"开源。
 
-## 完整工具链
+### B站适配困境
+- B站采用不同的播放器与页面结构，Obsidian Web Clipper无法正确解析
+- B站字幕格式与YouTube不同，需专门解析
+- BVID等B站特有数据需单独处理
 
-| 组件 | 作用 |
-|------|------|
-| Obsidian | 本地知识库核心，支持双链笔记与图谱可视化 |
-| Local Rest API 插件 | 为外部工具提供读写笔记库的接口 |
-| Karpathy-LLM-Wiki-Vault 模板 | 提供标准化的知识管理结构 |
-| Bilibili Web Clipper | 抓取B站视频原数据与字幕，打通最后一环 |
+### 解决方案
+B站UP主"小陈师傅c_z"开发了Bilibili Web Clipper浏览器扩展，可一键将视频转化为结构化笔记。
+
+### 完整工作流
+1. 安装Bilibili Web Clipper扩展
+2. 打开任意B站视频，点击扩展图标
+3. 插件自动提取标题、up主、字幕、简介
+4. 一键生成Markdown文件存入vault
+5. 配合Skills功能自动完成双向链接与知识图谱构建
 
 ## 关联连接
-- [[摘要-bilibili-llm-wiki-intro]] — 来源
-- [[Obsidian]] — 承载工具
-- [[Karpathy_LLM_Wiki_Vault]] — 开源模板
+- [[Obsidian]] — 知识库工具
 - [[Bilibili_Web_Clipper]] — B站专用抓取工具
+- [[Karpathy_LLM_Wiki_Vault]] — 开源模板
+- [[摘要-b站视频转知识库]] — 来源摘要

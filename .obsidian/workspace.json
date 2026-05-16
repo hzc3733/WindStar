@@ -8,13 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "298dc4d0a04ed788",
+            "id": "c3f4688d3687a514",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "image",
+              "state": {
+                "file": "assets/llm_wiki_arch.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "llm_wiki_arch"
             }
           }
         ]
@@ -74,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 478.5
+    "width": 264.5
   },
   "right": {
     "id": "af7bef345ae2effd",
@@ -181,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "6d8c721b8fc0f83e",
@@ -220,48 +222,47 @@
       "oterm:Oterm": false
     }
   },
-  "active": "298dc4d0a04ed788",
+  "active": "c3f4688d3687a514",
   "lastOpenFiles": [
-    "Clippings/Bilibili/AI工具/把B站视频转成本地AI知识库！新手也能3分钟上手.md",
-    "assets/llm_wiki_arch.jpg",
-    "Clippings/Bilibili/AI工具/保姆级Claude Code速成.md",
     "assets/Karpathy LLM Wiki.png",
-    "assets/hq720.jpg",
     "assets/claude模式.png",
-    "CLAUDE.md",
-    "raw/09-archive/2026-05-13-把B站视频转成本地AI知识库！新手也能3分钟上手.md",
-    "raw/09-archive/技能使用说明书.md",
-    "Clippings/Bilibili/AI工具/别再乱装Skill了！这 4 组Skill，才是Agent的顶级生产力。.md",
-    "wiki/concepts/财富思维.md",
-    "wiki/sources/摘要-bilibili-ai-knowledge-base.md",
-    "wiki/sources/摘要-lao-zi-de-n-wei-chuan-xun.md",
-    "wiki/sources/摘要-ni-shi-ni-chi-chu-lai-de.md",
-    "wiki/sources/摘要-si-kao-zhi-fu-2016-ban.md",
-    "wiki/sources/摘要-hermes-agent-gong-ju-shuo-ming-shu.md",
-    "wiki/sources/摘要-cai-fu-jie-ti.md",
-    "wiki/sources/摘要-bilibili-llm-wiki-intro.md",
-    "wiki/entities/Claude_Code.md",
-    "wiki/entities/拿破仑希尔.md",
-    "wiki/concepts/LLM_Wiki.md",
-    "wiki/concepts/营养学.md",
-    "wiki/entities/karpathy-llm-wiki-vault.md",
-    "raw/09-archive/老子的N維傳訊 德道經原文重現重譯 (呂尚) .pdf",
-    "raw/09-archive/你是你吃出来的：吃对少生病，病了这样吃.pdf",
-    "raw/09-archive/财富阶梯.pdf",
-    "raw/09-archive/《思考致富》2016版 拿破仑·希尔(美).pdf",
-    "raw/09-archive/工具说明书.md",
-    "wiki/log.md.tmp.12548.31529a90d512",
-    "wiki/index.md.tmp.12548.2a18702320ed",
-    "wiki/index.md.tmp.12548.f17e2ae6fee7",
-    "wiki/index.md.tmp.12548.abd737a1d509",
-    "wiki/index.md.tmp.12548.d0c08ea07b92",
-    "wiki/index.md.tmp.12548.56ad1a02b9e3",
-    "wiki/entities/Hermes_Agent.md",
-    "wiki/sources/摘要-hermes-agent-ji-neng-shi-yong-shuo-ming-shu.md",
-    "wiki/entities/Karpathy_LLM_Wiki_Vault.md",
+    "assets/hq720.jpg",
+    "assets/llm_wiki_arch.jpg",
+    "wiki/sources/摘要-4组skill顶级生产力.md",
+    "raw/09-archive/PDF",
+    "raw/09-archive/Bilibili/AI视频",
+    "raw/09-archive/Bilibili/AI工具",
+    "raw/09-archive/Bilibili",
+    "raw/09-archive/Bilibili/AI视频/AI动画短片创作全流程分享.md",
+    "raw/09-archive/Bilibili/AI工具/把B站视频转成本地AI知识库.md",
+    "raw/09-archive/Bilibili/AI工具/别再乱装Skill了！这 4 组Skill，才是Agent的顶级生产力。.md",
+    "raw/09-archive/Bilibili/AI工具/保姆级Claude Code速成.md",
     "wiki/log.md",
+    "wiki/log.md.tmp.2552.dd6a0e6b6ea1",
     "wiki/index.md",
+    "wiki/index.md.tmp.2552.86188809204a",
+    "wiki/concepts/AI视频创作.md",
+    "wiki/concepts/AI视频创作.md.tmp.2552.bb9bda1b7bfe",
+    "wiki/concepts/提示词工程.md",
+    "wiki/concepts/提示词工程.md.tmp.2552.fbb15ec38b2d",
+    "wiki/entities/G_Stack.md",
+    "wiki/entities/G_Stack.md.tmp.2552.88012343da0c",
+    "wiki/concepts/LLM_Wiki.md",
+    "wiki/concepts/LLM_Wiki.md.tmp.2552.7b67db83e24e",
+    "wiki/entities/Obsidian.md",
+    "wiki/concepts/上下文管理.md",
+    "wiki/concepts/Skills.md",
+    "wiki/concepts/MCP.md",
+    "wiki/concepts/Harness.md",
+    "wiki/entities/Claude_Code.md",
+    "CLAUDE.md",
+    "wiki/sources/摘要-ai动画短片创作流程.md",
+    "wiki/sources/摘要-b站视频转知识库.md",
+    "wiki/sources/摘要-claude-code-speedrun.md",
+    "Clippings/Bilibili/AI工具/别再乱装Skill了！这 4 组Skill，才是Agent的顶级生产力。.md",
+    "Clippings/Bilibili/AI工具/把B站视频转成本地AI知识库.md",
     "Clippings/Bilibili/AI视频/AI动画短片创作全流程分享.md",
+    "Clippings/Bilibili/AI工具/保姆级Claude Code速成.md",
     "llm_wiki/node_modules/cytoscape-fcose/demo/incrementalConstraints.gif",
     "llm_wiki/node_modules/cytoscape-fcose/demo/demo.gif",
     "llm_wiki/node_modules/@react-sigma/core/src/assets/icons/plus-solid.svg",

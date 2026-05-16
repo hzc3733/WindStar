@@ -1,29 +1,39 @@
 ---
 title: "Obsidian"
 type: entity
-tags: [知识管理, 双链笔记, 本地知识库]
-sources: [raw/03-transcripts/2026-05-13-把B站视频转成本地AI知识库！新手也能3分钟上手.md]
+tags: [知识库, 双链笔记, 本地存储]
+sources: [Clippings/Bilibili/AI工具/把B站视频转成本地AI知识库.md]
 last_updated: 2026-05-16
 ---
 
 ## 定义
-
-Obsidian 是一款本地优先的 Markdown 双链笔记工具，核心特性是通过 `[[双链]]` 语法实现知识节点间的互联，并通过图谱可视化展示知识网络结构。作为 Karpathy LLM-Wiki 理念的核心承载工具，Obsidian 能够将笔记转化为 LLM 可理解的结构化知识，实现知识互联与知识生长。
-
-## 核心能力
-
-- **双链笔记**：通过 `[[双向链接]]` 连接笔记
-- **知识图谱**：可视化笔记间的关联
-- **插件生态**：支持 Local REST API、Web Clipper 等扩展
-- **本地优先**：数据存储在本地，无云服务依赖
+Obsidian是一款本地知识库核心工具，支持双链笔记与图谱可视化，是Karpathy LLM-Wiki理念的重要载体。
 
 ## 关键信息
 
-- **定位**：本地知识库核心工具，支持双链笔记与图谱可视化
-- **插件生态**：支持 Local Rest API 插件，为外部工具提供读写笔记库的接口
-- **工作流**：配合 Web Clipper 插件可抓取网页/视频内容，转化为结构化 Markdown 笔记
+### 在LLM-Wiki中的角色
+- 作为本地知识库核心
+- 支持双链笔记与图谱可视化
+- 配合Local REST API插件提供外部读写接口
+
+### 核心功能
+- **双链笔记**：通过`[[页面名称]]`语法建立页面间链接
+- **图谱可视化**：可视化展示知识网络
+- **本地存储**：所有数据存储在本地，保证隐私
+
+### 相关插件
+- **Local REST API**：为外部工具提供读写笔记库的HTTP接口
+- **Bilibili Web Clipper**：专用于B站视频的网页剪藏插件
+
+### 工具链组合
+完整工具链包含四个核心组件：
+1. Obsidian（本地知识库核心）
+2. Local REST API插件（外部接口）
+3. Karpathy-LLM-Wiki-Vault模板（标准化结构）
+4. Bilibili Web Clipper（视频抓取）
 
 ## 关联连接
-- [[摘要-bilibili-llm-wiki-intro]] — 来源
-- [[Karpathy_LLM_Wiki_Vault]] — 配套知识库模板
-- [[Bilibili_Web_Clipper]] — B站视频抓取工具
+- [[LLM_Wiki]] — 知识库理念
+- [[Bilibili_Web_Clipper]] — B站抓取插件
+- [[Local_REST_API]] — 外部接口插件
+- [[摘要-b站视频转知识库]] — 来源摘要
