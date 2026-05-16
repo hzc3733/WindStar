@@ -8,19 +8,21 @@ last_updated: 2026-05-16
 
 ## 定义
 
-Bilibili Web Clipper 是由B站up主小陈师傅（c_z）开发的浏览器扩展，专为B站视频定制的 Web Clipper 工具，可一键将B站视频转化为结构化 Markdown 笔记。
+Bilibili Web Clipper 是由B站up主小陈师傅（c_z）开发的浏览器扩展，专为B站视频定制的 Web Clipper 工具，可一键将B站视频转化为结构化 Markdown 笔记，打通了B站学习资源到本地AI知识库的最后一环。
 
-## 关键信息
+## 核心功能
 
-- **支持浏览器**：Chromium 内核浏览器（Chrome、Edge），Firefox 版本也有适配
-- **核心功能**：
-  - 自动提取视频标题、UP主、字幕和简介
-  - 一键生成标准 Markdown 文件
-  - 无需配置即可抓取B站特有的 BVID 等数据
-- **解决的问题**：
-  - 平台差异：B站采用不同的播放器与页面结构，普通 Web Clipper 无法解析
-  - 字幕格式：B站字幕格式与YouTube不同，需专门解析
-  - 特有数据：B站特有的 BVID 等数据需单独处理
+- **一键抓取**：提取 B站视频的标题、up主、字幕、简介
+- **Markdown 导出**：生成标准 Markdown 格式文件
+- **目录配置**：支持自定义保存路径（如 `raw/03-transcripts/`）
+- **多浏览器支持**：Chrome、Edge（Chromium 内核）、Firefox
+
+## 技术背景
+
+B 站视频与 YouTube 采用不同的播放器与页面结构，通用 Obsidian Web Clipper 无法正确解析。Bilibili Web Clipper 解决了三个主要困境：
+1. **平台差异**：B站特有的播放器与页面结构
+2. **字幕格式**：B站字幕格式与YouTube不同，需专门解析
+3. **特有数据**：B站特有的 BVID 等数据需单独处理
 
 ## 关联连接
 - [[摘要-bilibili-llm-wiki-intro]] — 来源
