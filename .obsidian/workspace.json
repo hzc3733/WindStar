@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cea2b595fd11f04e",
+        "id": "65dbfa0b505ad9f5",
         "type": "tabs",
         "children": [
           {
-            "id": "0d3d4277c71c1b90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Bilibili/2026-05-16-别再乱装Skill了！这 4 组Skill，才是Agent的顶级生产力。.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-05-16-别再乱装Skill了！这 4 组Skill，才是Agent的顶级生产力。"
-            }
-          },
-          {
-            "id": "82692cf57b76d60e",
+            "id": "8bc2f7f26b3e4b3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,23 +20,8 @@
               "icon": "lucide-file",
               "title": "2026-05-13-把B站视频转成本地AI知识库！新手也能3分钟上手"
             }
-          },
-          {
-            "id": "8249ee8a0a1ae115",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 622.5
   },
   "right": {
     "id": "af7bef345ae2effd",
@@ -253,8 +224,13 @@
       "oterm:Oterm": false
     }
   },
-  "active": "8249ee8a0a1ae115",
+  "active": "8bc2f7f26b3e4b3e",
   "lastOpenFiles": [
+    "Clippings/Bilibili/2026-05-16-把B站视频转成本地AI知识库！新手也能3分钟上手.md",
+    "Clippings/Bilibili/2026-05-13-把B站视频转成本地AI知识库！新手也能3分钟上手.md",
+    "assets/Karpathy LLM Wiki.png",
+    "assets/hq720.jpg",
+    "README.md",
     "CLAUDE.md",
     "wiki/log.md",
     "wiki/index.md",
@@ -279,13 +255,8 @@
     "wiki/entities/Claude.md",
     "wiki/entities/Anthropic.md",
     "wiki/concepts/Few_Shot_Prompting.md",
-    "wiki/concepts/Context_Engineering.md",
-    "wiki/concepts/Chain_of_Thought.md",
-    "wiki/concepts/5C_Framework.md",
     "raw/02-papers/Goolge-Prompt-Engineering-whitepaper.pdf",
     "raw/02-papers/5C Prompt Contracts .pdf",
-    "assets/hq720.jpg",
-    "assets/Karpathy LLM Wiki.png",
     "wiki/log.md.tmp.5264.9f12ee995509",
     "wiki/entities/Obsidian.md.tmp.5264.3ac418d9a9ad",
     "wiki/sources/摘要-bilibili-llm-wiki-intro.md.tmp.5264.28895364476a",
