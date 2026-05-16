@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "65dbfa0b505ad9f5",
+        "id": "79e019ed6109cb73",
         "type": "tabs",
         "children": [
           {
-            "id": "8bc2f7f26b3e4b3e",
+            "id": "e4e8ae2c4496ef6e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Clippings/Bilibili/2026-05-13-把B站视频转成本地AI知识库！新手也能3分钟上手.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/llm_wiki_arch.jpg"
               },
-              "icon": "lucide-file",
-              "title": "2026-05-13-把B站视频转成本地AI知识库！新手也能3分钟上手"
+              "icon": "lucide-image",
+              "title": "llm_wiki_arch"
             }
           }
         ]
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 622.5
+    "width": 478.5
   },
   "right": {
     "id": "af7bef345ae2effd",
@@ -175,7 +173,7 @@
             }
           },
           {
-            "id": "a3314a3f1363c397",
+            "id": "f165412298b7dcc4",
             "type": "leaf",
             "state": {
               "type": "oterm-terminal-view",
@@ -206,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 643.5
+    "width": 700.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,53 +222,53 @@
       "oterm:Oterm": false
     }
   },
-  "active": "8bc2f7f26b3e4b3e",
+  "active": "96f6766048c97def",
   "lastOpenFiles": [
-    "Clippings/Bilibili/2026-05-16-把B站视频转成本地AI知识库！新手也能3分钟上手.md",
-    "Clippings/Bilibili/2026-05-13-把B站视频转成本地AI知识库！新手也能3分钟上手.md",
+    "Clippings/Bilibili/AI工具/保姆级Claude Code速成.md",
     "assets/Karpathy LLM Wiki.png",
+    "assets/llm_wiki_arch.jpg",
     "assets/hq720.jpg",
-    "README.md",
+    "assets/claude模式.png",
     "CLAUDE.md",
+    "raw/09-archive/2026-05-13-把B站视频转成本地AI知识库！新手也能3分钟上手.md",
+    "raw/09-archive/技能使用说明书.md",
+    "Clippings/Bilibili/AI工具/别再乱装Skill了！这 4 组Skill，才是Agent的顶级生产力。.md",
+    "wiki/concepts/财富思维.md",
+    "wiki/sources/摘要-bilibili-ai-knowledge-base.md",
+    "wiki/sources/摘要-lao-zi-de-n-wei-chuan-xun.md",
+    "wiki/sources/摘要-ni-shi-ni-chi-chu-lai-de.md",
+    "wiki/sources/摘要-si-kao-zhi-fu-2016-ban.md",
+    "wiki/sources/摘要-hermes-agent-gong-ju-shuo-ming-shu.md",
+    "wiki/sources/摘要-cai-fu-jie-ti.md",
+    "wiki/sources/摘要-bilibili-llm-wiki-intro.md",
+    "wiki/entities/Claude_Code.md",
+    "wiki/entities/拿破仑希尔.md",
+    "wiki/concepts/LLM_Wiki.md",
+    "wiki/concepts/营养学.md",
+    "wiki/entities/karpathy-llm-wiki-vault.md",
+    "raw/09-archive/老子的N維傳訊 德道經原文重現重譯 (呂尚) .pdf",
+    "raw/09-archive/你是你吃出来的：吃对少生病，病了这样吃.pdf",
+    "raw/09-archive/财富阶梯.pdf",
+    "raw/09-archive/《思考致富》2016版 拿破仑·希尔(美).pdf",
+    "raw/09-archive/工具说明书.md",
+    "wiki/log.md.tmp.12548.31529a90d512",
+    "wiki/index.md.tmp.12548.2a18702320ed",
+    "wiki/index.md.tmp.12548.f17e2ae6fee7",
+    "wiki/index.md.tmp.12548.abd737a1d509",
+    "wiki/index.md.tmp.12548.d0c08ea07b92",
+    "wiki/index.md.tmp.12548.56ad1a02b9e3",
+    "wiki/entities/Hermes_Agent.md",
+    "wiki/sources/摘要-hermes-agent-ji-neng-shi-yong-shuo-ming-shu.md",
+    "wiki/entities/Karpathy_LLM_Wiki_Vault.md",
     "wiki/log.md",
     "wiki/index.md",
-    "wiki/sources/摘要-bilibili-llm-wiki-intro.md",
-    "wiki/sources/摘要-complete-prompt-engineering-guide-2025.md",
-    "wiki/sources/摘要-bilibili-ai-knowledge-base.md",
-    "wiki/entities/Obsidian.md",
-    "wiki/concepts/LLM_Wiki.md",
-    "wiki/entities/Gemini.md",
-    "wiki/concepts/Prompt_Engineering.md",
-    "raw/01-articles/提示设计策略  _  Gemini API.md",
-    "wiki/index.md.tmp.5264.a87a5e2a4757",
-    "wiki/syntheses/5c-prompt-markdown-note-taking.md",
-    "wiki/sources/摘要-prompt-engineering-2025-guide-promptbuilder.md",
-    "wiki/sources/摘要-google-prompt-engineering-whitepaper.md",
-    "wiki/sources/摘要-gemini-api-prompting-strategies.md",
-    "wiki/sources/摘要-anthropic-prompting-best-practices.md",
-    "wiki/sources/摘要-ai-prompt-engineering-2025-2026-espo.md",
-    "wiki/sources/摘要-5c-prompt-contracts-paper.md",
-    "wiki/entities/karpathy-llm-wiki-vault.md",
-    "wiki/entities/Google.md",
-    "wiki/entities/Claude.md",
-    "wiki/entities/Anthropic.md",
-    "wiki/concepts/Few_Shot_Prompting.md",
-    "raw/02-papers/Goolge-Prompt-Engineering-whitepaper.pdf",
-    "raw/02-papers/5C Prompt Contracts .pdf",
-    "wiki/log.md.tmp.5264.9f12ee995509",
-    "wiki/entities/Obsidian.md.tmp.5264.3ac418d9a9ad",
-    "wiki/sources/摘要-bilibili-llm-wiki-intro.md.tmp.5264.28895364476a",
-    "wiki/syntheses",
-    "wiki/sources",
-    "wiki/entities",
-    "wiki/concepts",
+    "Clippings/Bilibili/AI视频/AI动画短片创作全流程分享.md",
+    "Clippings/Bilibili/AI工具/把B站视频转成本地AI知识库！新手也能3分钟上手.md",
     "llm_wiki/node_modules/cytoscape-fcose/demo/incrementalConstraints.gif",
     "llm_wiki/node_modules/cytoscape-fcose/demo/demo.gif",
     "llm_wiki/node_modules/@react-sigma/core/src/assets/icons/plus-solid.svg",
     "llm_wiki/node_modules/@react-sigma/core/src/assets/icons/minus-solid.svg",
     "llm_wiki/node_modules/@react-sigma/core/src/assets/icons/expand-solid.svg",
-    "llm_wiki/node_modules/@react-sigma/core/src/assets/icons/dot-circle-regular.svg",
-    "llm_wiki/node_modules/@react-sigma/core/src/assets/icons/compress-solid.svg",
-    "llm_wiki/node_modules/cytoscape-fcose/node_modules/layout-base/layout-schema.png"
+    "llm_wiki/node_modules/@react-sigma/core/src/assets/icons/dot-circle-regular.svg"
   ]
 }

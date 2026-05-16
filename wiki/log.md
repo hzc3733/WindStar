@@ -86,4 +86,51 @@
 
 ---
 
+## [2026-05-16] ingest | 批量摄入 Hermès Agent 工具文档与 PDF 书籍
+
+### 处理文件清单
+
+**Articles（6 篇）：**
+- `raw/01-articles/工具说明书.md` — Hermès Agent 工具使用说明书（16 大类工具）
+- `raw/01-articles/技能使用说明书.md` — Hermès Agent 技能使用说明书（80 个技能）
+- `raw/01-articles/《思考致富》2016版 拿破仑·希尔(美).pdf` — 成功学经典著作
+- `raw/01-articles/你是你吃出来的：吃对少生病，病了这样吃.pdf` — 营养健康指南
+- `raw/01-articles/财富阶梯.pdf` — 财富投资策略指南
+- `raw/01-articles/老子的N維傳訊 德道經原文重現重譯 (呂尚) .pdf` — 道家经典重译
+
+### 创建的来源摘要（6 个）
+
+| 文件 | 描述 |
+|------|------|
+| [[摘要-hermes-agent-gong-ju-shuo-ming-shu]] | Hermès Agent 16 大类工具完整说明 |
+| [[摘要-hermes-agent-ji-neng-shi-yong-shuo-ming-shu]] | Hermès Agent 80 个技能分类详解 |
+| [[摘要-si-kao-zhi-fu-2016-ban]] | 拿破仑·希尔《思考致富》2016版 |
+| [[摘要-cai-fu-jie-ti]] | 《财富阶梯》PDF |
+| [[摘要-ni-shi-ni-chi-chu-lai-de]] | 《你是你吃出来的》营养指南 |
+| [[摘要-lao-zi-de-n-wei-chuan-xun]] | 《老子的N維傳訊》 |
+
+### 创建的实体页面（3 个）
+
+| 页面 | 类型 | 描述 |
+|------|------|------|
+| [[Hermes_Agent]] | 实体 | 多平台AI Agent，16大类工具+80技能 |
+| [[Claude_Code]] | 实体 | Anthropic官方AI编程Agent |
+| [[拿破仑希尔]] | 人物 | 成功学之父，《思考致富》作者 |
+
+### 创建的概念页面（2 个）
+
+| 页面 | 类型 | 描述 |
+|------|------|------|
+| [[财富思维]] | 概念 | 通过思考方式实现财务自由的理念 |
+| [[营养学]] | 概念 | 食物与人体健康关系的科学 |
+
+### 更新文件
+- [[index.md]] — 新增 6 个 Sources、3 个 Entities、2 个 Concepts
+- [[log.md]] — 记录本次操作（本条目）
+
+### 归档操作
+所有 6 个源文件已移动至 `raw/09-archive/` 目录。
+
+---
+
 *最后更新：2026-05-16*
