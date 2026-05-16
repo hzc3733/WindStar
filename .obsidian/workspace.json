@@ -11,14 +11,12 @@
             "id": "c3f4688d3687a514",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "wiki/index.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/cc-switch--本地ollama配置.png"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "cc-switch--本地ollama配置"
             }
           }
         ]
@@ -226,12 +224,19 @@
   },
   "active": "e05bd9459aade10d",
   "lastOpenFiles": [
-    "wiki/log.md",
+    "assets/cc-switch--ergouzi配置.jpg",
+    "assets/claude模式.png",
+    "CLAUDE.md",
+    "assets/cc-switch--ergouzi.jpg",
+    "assets/cc-switch--本地ollama配置.png",
     "wiki/index.md",
+    "Clippings/Bilibili/2026-05-16-游钓湖南，鱼情果然暴躁，直接上巨物.md",
+    "Clippings/Bilibili",
+    "Clippings",
+    "wiki/log.md",
     "wiki/log.md.tmp.2552.3321017753b5",
     "README.md",
     "wiki/entities/G_Stack.md",
-    "CLAUDE.md",
     "wiki/log.md.tmp.2552.9269d6e8bf93",
     "wiki/sources/摘要-ai动画短片创作流程.md.tmp.2552.de20dd44cecb",
     "wiki/entities/Obsidian.md",
@@ -240,8 +245,6 @@
     "wiki/entities/G_Stack.md.tmp.2552.e0888ea5f9fb",
     "wiki/concepts/MCP.md.tmp.2552.e7636f56184b",
     "wiki/sources/摘要-b站视频转知识库.md.tmp.2552.56c460a9d2d8",
-    "wiki/entities/Obsidian.md.tmp.2552.967e65bd1d6f",
-    "wiki/concepts/LLM_Wiki.md.tmp.2552.779911d159fb",
     "wiki/entities/Claude_Code.md",
     "wiki/concepts/Skills.md",
     "wiki/concepts/MCP.md",
@@ -252,7 +255,6 @@
     "wiki/concepts/上下文管理.md",
     "assets/llm_wiki_arch.jpg",
     "assets/Karpathy LLM Wiki.png",
-    "assets/claude模式.png",
     "assets/hq720.jpg",
     "wiki/sources/摘要-4组skill顶级生产力.md",
     "raw/09-archive/Bilibili/AI视频/AI动画短片创作全流程分享.md",
@@ -264,12 +266,8 @@
     "wiki/sources/摘要-claude-code-speedrun.md",
     "Clippings/Bilibili/AI工具/别再乱装Skill了！这 4 组Skill，才是Agent的顶级生产力。.md",
     "Clippings/Bilibili/AI工具/把B站视频转成本地AI知识库.md",
-    "Clippings/Bilibili/AI视频/AI动画短片创作全流程分享.md",
     "llm_wiki/node_modules/cytoscape-fcose/demo/incrementalConstraints.gif",
     "llm_wiki/node_modules/cytoscape-fcose/demo/demo.gif",
-    "llm_wiki/node_modules/@react-sigma/core/src/assets/icons/plus-solid.svg",
-    "llm_wiki/node_modules/@react-sigma/core/src/assets/icons/minus-solid.svg",
-    "llm_wiki/node_modules/@react-sigma/core/src/assets/icons/expand-solid.svg",
-    "llm_wiki/node_modules/@react-sigma/core/src/assets/icons/dot-circle-regular.svg"
+    "llm_wiki/node_modules/@react-sigma/core/src/assets/icons/plus-solid.svg"
   ]
 }
