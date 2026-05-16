@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "79e019ed6109cb73",
+        "id": "aa5422a6a28466c4",
         "type": "tabs",
         "children": [
           {
-            "id": "e4e8ae2c4496ef6e",
+            "id": "298dc4d0a04ed788",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/llm_wiki_arch.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "llm_wiki_arch"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -183,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "6d8c721b8fc0f83e",
@@ -222,11 +220,12 @@
       "oterm:Oterm": false
     }
   },
-  "active": "96f6766048c97def",
+  "active": "298dc4d0a04ed788",
   "lastOpenFiles": [
+    "Clippings/Bilibili/AI工具/把B站视频转成本地AI知识库！新手也能3分钟上手.md",
+    "assets/llm_wiki_arch.jpg",
     "Clippings/Bilibili/AI工具/保姆级Claude Code速成.md",
     "assets/Karpathy LLM Wiki.png",
-    "assets/llm_wiki_arch.jpg",
     "assets/hq720.jpg",
     "assets/claude模式.png",
     "CLAUDE.md",
@@ -263,7 +262,6 @@
     "wiki/log.md",
     "wiki/index.md",
     "Clippings/Bilibili/AI视频/AI动画短片创作全流程分享.md",
-    "Clippings/Bilibili/AI工具/把B站视频转成本地AI知识库！新手也能3分钟上手.md",
     "llm_wiki/node_modules/cytoscape-fcose/demo/incrementalConstraints.gif",
     "llm_wiki/node_modules/cytoscape-fcose/demo/demo.gif",
     "llm_wiki/node_modules/@react-sigma/core/src/assets/icons/plus-solid.svg",
