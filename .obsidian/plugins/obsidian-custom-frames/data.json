@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "http://127.0.0.1:8787",
+      "displayName": "local-hermes",
+      "icon": "hermes",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}
