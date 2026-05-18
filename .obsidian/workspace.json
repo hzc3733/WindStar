@@ -11,10 +11,14 @@
             "id": "1976580670ec99a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -181,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "6d8c721b8fc0f83e",
@@ -220,8 +224,11 @@
       "oterm:Oterm": false
     }
   },
-  "active": "96f6766048c97def",
+  "active": "e05bd9459aade10d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "assets/cc-switch--本地ollama配置.png",
+    "assets/cc-switch--ergouzi配置.jpg",
     "Clippings/OpenClaw 多 Agent 配置完整指南.md",
     "Clippings/中美元首会晤，这些细节值得回味.md",
     "Clippings/王毅向媒体介绍中美元首会晤情况和共识 — 中华人民共和国外交部 1.md",
@@ -261,12 +268,9 @@
     "raw/09-archive/Bilibili/AI工具/把B站视频转成本地AI知识库.md",
     "raw/09-archive/Bilibili/AI工具/别再乱装Skill了！这 4 组Skill，才是Agent的顶级生产力。.md",
     "raw/09-archive/Bilibili/AI工具/保姆级Claude Code速成.md",
-    "wiki/sources/摘要-ai动画短片创作流程.md",
     "llm_wiki/node_modules/cytoscape-fcose/demo/incrementalConstraints.gif",
     "llm_wiki/node_modules/cytoscape-fcose/demo/demo.gif",
     "llm_wiki/node_modules/@react-sigma/core/src/assets/icons/plus-solid.svg",
-    "llm_wiki/node_modules/@react-sigma/core/src/assets/icons/minus-solid.svg",
-    "llm_wiki/node_modules/@react-sigma/core/src/assets/icons/expand-solid.svg",
-    "llm_wiki/node_modules/@react-sigma/core/src/assets/icons/dot-circle-regular.svg"
+    "llm_wiki/node_modules/@react-sigma/core/src/assets/icons/minus-solid.svg"
   ]
 }
