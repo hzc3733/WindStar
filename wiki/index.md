@@ -9,6 +9,7 @@
 - [[摘要-openclaw多agent配置]] — OpenClaw多Agent配置完整指南
 - [[摘要-harness实践知识讲解视频]] — Harness实践：Agent全自动制作知识讲解视频
 - [[摘要-updream无限画布深度评测]] — B站UPdream无限画布深度评测
+- [[摘要-抖音-底层破局与去匮乏]] — 关于摆脱匮乏、重建专注与长期积累的抖音视频摘要
 
 ## Entities
 - [[Claude_Code]] — Anthropic开发的AI编程与通用Agent工具
