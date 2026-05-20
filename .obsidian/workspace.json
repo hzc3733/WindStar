@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "aa5422a6a28466c4",
+        "id": "e00a514cce275e9e",
         "type": "tabs",
         "children": [
           {
-            "id": "c3f4688d3687a514",
+            "id": "4def90de724e9975",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/cc-switch--本地ollama配置.png"
-              },
-              "icon": "lucide-image",
-              "title": "cc-switch--本地ollama配置"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -178,6 +176,26 @@
             "state": {
               "type": "oterm-terminal-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "oterm-terminal-view"
+            }
+          },
+          {
+            "id": "f133485284c0d03b",
+            "type": "leaf",
+            "state": {
+              "type": "oterm-terminal-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "oterm-terminal-view"
+            }
+          },
+          {
+            "id": "615587d4b7233abb",
+            "type": "leaf",
+            "state": {
+              "type": "oterm-terminal-view",
+              "state": {},
               "icon": "oterm-icon",
               "title": "Terminal: powershell"
             }
@@ -222,13 +240,14 @@
       "oterm:Oterm": false
     }
   },
-  "active": "e05bd9459aade10d",
+  "active": "4def90de724e9975",
   "lastOpenFiles": [
+    "assets/llm_wiki_arch.jpg",
+    "assets/cc-switch--本地ollama配置.png",
     "assets/cc-switch--ergouzi配置.jpg",
     "assets/claude模式.png",
     "CLAUDE.md",
     "assets/cc-switch--ergouzi.jpg",
-    "assets/cc-switch--本地ollama配置.png",
     "wiki/index.md",
     "Clippings/Bilibili/2026-05-16-游钓湖南，鱼情果然暴躁，直接上巨物.md",
     "Clippings/Bilibili",
@@ -253,7 +272,6 @@
     "wiki/concepts/AI视频创作.md",
     "wiki/concepts/提示词工程.md",
     "wiki/concepts/上下文管理.md",
-    "assets/llm_wiki_arch.jpg",
     "assets/Karpathy LLM Wiki.png",
     "assets/hq720.jpg",
     "wiki/sources/摘要-4组skill顶级生产力.md",
