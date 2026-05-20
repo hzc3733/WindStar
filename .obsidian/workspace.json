@@ -20,23 +20,8 @@
               "icon": "diff",
               "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
             }
-          },
-          {
-            "id": "1a40a32e23c67a94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,7 +244,7 @@
       "oterm:Oterm": false
     }
   },
-  "active": "1a40a32e23c67a94",
+  "active": "e05bd9459aade10d",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "wiki/sources/摘要-抖音-底层破局与去匮乏.md",
