@@ -11,10 +11,14 @@
             "id": "c9db965543104588",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
             }
           }
         ]
@@ -240,7 +244,7 @@
       "oterm:Oterm": false
     }
   },
-  "active": "96f6766048c97def",
+  "active": "c9db965543104588",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "wiki/sources/摘要-抖音-底层破局与去匮乏.md",
